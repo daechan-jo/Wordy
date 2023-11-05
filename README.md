@@ -102,7 +102,8 @@
 ![git-auth-sequence-diagram drawio](https://github.com/daechan-jo/Wordy/assets/103374153/c4b0abc9-1cc7-43d0-9111-6a6c35553257)
 
 - 학습 서비스 시퀀스 다이어그램
-![wordy-learn-logic drawio](https://github.com/daechan-jo/Wordy/assets/103374153/db6ae998-f99a-417c-a1b9-3863228483cc)
+![wordy-learn-logic drawio](https://github.com/daechan-jo/Wordy/assets/103374153/b450acaf-6ac8-4859-a444-b7116bff11d0)
+
 
 <br />
 <br />
