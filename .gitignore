@@ -1,7 +1,7 @@
 node_modules
 *.env
 dist
-/back/public/images/
+/back/public/image/
 /back/prisma/migrations/
 /back/.idea/
 .idea
