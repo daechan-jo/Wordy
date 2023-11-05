@@ -1,6 +1,9 @@
 # [Node.js] Express.ts + prisma boiler-plate
 
-Service-Oriented MVC 아키텍쳐 패턴 기반 타입스크립트 보일러 플레이트
+### Service-Oriented MVC 아키텍쳐 패턴 기반 타입스크립트 보일러 플레이트   
+#### developer : [daechan-jo](https://github.com/daechan-jo)
+
+<br />
 
 > **기술 스택**
 
