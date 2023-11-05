@@ -87,6 +87,27 @@
 ![wordy-learn-logic](https://github.com/daechan-jo/Wordy/assets/103374153/b11152c3-e825-4538-9994-ff54cb5ce11a)
 
 <br />
+<br />
+
+## **ERD**
+![word ERD](https://github.com/daechan-jo/Wordy/assets/103374153/66bb61cb-c3f8-4e2f-904b-9583d137bf4b)
+
+<br />
+<br />
+
+
+## **서비스 시퀀스 다이어그램**
+
+- 회원 서비스 시퀀스 다이어그램
+![회원관련시퀀스다이어그램원본 drawio](https://github.com/daechan-jo/Wordy/assets/103374153/3803676a-0c43-42ef-b8a9-b5b03f35da8a)
+
+- 학습 서비스 시퀀스 다이어그램
+![wordy-study-logic drawio](https://github.com/daechan-jo/Wordy/assets/103374153/3747df5a-bab8-4ef8-bb32-c197b13f60bd)
+
+<br />
+<br />
+
+<br />
 
 ## **주요 기능 및 특징**
 
@@ -180,22 +201,10 @@ front 루트경로로 이동
 <br />
 <br />
 
-## **ERD**
 
 
-<br />
-<br />
-
-
-## **서비스 시퀀스 다이어그램**
-
-
-<br />
-<br />
-
-
-## **프로젝트 기능 / API 명세서**
-
+## **기능명세서**
+[기능명세서.notion](https://www.notion.so/elice/e7c8af41f6b64b53af981bbd0aa6adfc?v=b13d2455ce45444c82ca85cb13ac22fe&pvs=4)
 
 
 
