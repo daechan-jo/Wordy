@@ -84,7 +84,7 @@
 <br />
 
 ## **서비스 아키텍쳐**
-![wordy-learn-logic](https://github.com/daechan-jo/Wordy/assets/103374153/b11152c3-e825-4538-9994-ff54cb5ce11a)
+![system architecture ](https://github.com/daechan-jo/Wordy/assets/103374153/afbf976a-5471-42cb-8648-669f27ffa6d0)
 
 <br />
 <br />
