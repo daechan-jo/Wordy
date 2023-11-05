@@ -99,10 +99,10 @@
 ## **서비스 시퀀스 다이어그램**
 
 - 회원 서비스 시퀀스 다이어그램
-![회원관련시퀀스다이어그램원본 drawio](https://github.com/daechan-jo/Wordy/assets/103374153/3803676a-0c43-42ef-b8a9-b5b03f35da8a)
+![git-auth-sequence-diagram drawio](https://github.com/daechan-jo/Wordy/assets/103374153/c4b0abc9-1cc7-43d0-9111-6a6c35553257)
 
 - 학습 서비스 시퀀스 다이어그램
-![wordy-study-logic drawio](https://github.com/daechan-jo/Wordy/assets/103374153/3747df5a-bab8-4ef8-bb32-c197b13f60bd)
+![wordy-learn-logic drawio](https://github.com/daechan-jo/Wordy/assets/103374153/db6ae998-f99a-417c-a1b9-3863228483cc)
 
 <br />
 <br />
